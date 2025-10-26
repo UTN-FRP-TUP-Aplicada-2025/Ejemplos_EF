@@ -1,0 +1,3 @@
+﻿
+Install-Package Microsoft.EntityFrameworkCore.Sql
+Microsoft.EntityFrameworkCore.Analyzers
