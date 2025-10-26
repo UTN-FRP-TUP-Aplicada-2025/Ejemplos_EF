@@ -22,7 +22,7 @@ public class Respuesta
     [Column("Camina")]
     public bool Camina { get; set; }
 
-    [Column("Usa_Transporte_Publico")]
+   [Column("Usa_Transporte_Publico")]
     public bool UsaTransportePublico { get; set; }
 
     [Column("Usa_Transporte_Privado")]

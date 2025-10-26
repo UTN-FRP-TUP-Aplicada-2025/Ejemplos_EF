@@ -4,7 +4,7 @@ using EncuestasData;
 using EncuestasData.Models;
 
 
-var obj = new Respuesta
+var obj = new Respuesta                                                                                                     
 {
     Email = "camila@gmail.com",
     Camina = false,
